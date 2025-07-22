@@ -1,48 +1,54 @@
-# travelagency-chatbot
-Murad International Travels Chatbot A smart travel assistant built for Murad International Travels, Mingora Swat. This chatbot helps customers inquire about flight availability, shows 2-3 low-fare airline options (with hidden 2% profit), collects their contact number, and ensures a follow-up by the travel agent.
 
-🧩 Features:
-✈️ Realistic mock airline fares with timing
+# Murad International Travels Chatbot ✈️
 
-📆 Travel date selection with calendar input
+A smart travel assistant built for **Murad International Travels**, Mingora Swat. This chatbot helps customers inquire about flight availability, shows 2-3 low-fare airline options (with hidden 2% profit), collects their contact number, and ensures a follow-up by the travel agent.
 
-💬 Chat interface with Enter-key support
+---
 
-📱 Collects user’s contact number for follow-up
+## 🧩 Features
 
-🎨 Attractive UI with airplane background and floating chatbot on the right
+- ✈️ Realistic mock airline fares with timing  
+- 📆 Travel date selection using a calendar input  
+- 💬 Smooth chat interface using Enter key  
+- 📱 Collects user's contact number for follow-up  
+- 🎨 Beautiful UI with background airplane image and floating chat window  
+- ♻️ Auto-reset after final message
 
-♻️ Auto-resets after final message
+---
 
-📁 Built With:
-HTML5
+## 🛠️ Built With
 
-CSS3
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- No backend required (mock data only)
 
-JavaScript (Vanilla)
+---
 
-No backend required (uses mock data)
+## 🚀 Getting Started
 
-📷 Screenshot (Optional)
-Include a screenshot of your chatbot UI like:
+1. Clone or download the repository  
+2. Place a plane image named `plane.png` in the same folder  
+3. Open `index.html` in any browser  
+4. Enjoy chatting and testing the flow
 
-md
-Copy
-Edit
+---
 
+## 📸 Screenshot (Optional)
 
-🚀 Getting Started
-Clone or download the repository
+```
+Add a screenshot here like:
+![Chatbot UI Screenshot](screenshot.png)
+```
 
-Place plane.png in the same folder
+---
 
-Open index.html in any browser
+## 🔮 Future Improvements
 
-Chat and test!
+- 🔗 Connect to real airline APIs like Amadeus or Skyscanner  
+- 📊 Save inquiries to Google Sheets or a database  
+- 🗣️ Voice input or WhatsApp integration
 
-📌 Future Improvements
-🔗 Connect to real-time flight APIs (Skyscanner, Amadeus)
+---
 
-📊 Save customer inquiries to Google Sheets or Firebase
-
-🗣️ Add voice support or WhatsApp integration (optional)
+> Made with ❤️ by Murad International Travels – Mingora Swat
