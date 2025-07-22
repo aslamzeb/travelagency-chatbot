@@ -29,3 +29,20 @@ Include a screenshot of your chatbot UI like:
 md
 Copy
 Edit
+
+
+🚀 Getting Started
+Clone or download the repository
+
+Place plane.png in the same folder
+
+Open index.html in any browser
+
+Chat and test!
+
+📌 Future Improvements
+🔗 Connect to real-time flight APIs (Skyscanner, Amadeus)
+
+📊 Save customer inquiries to Google Sheets or Firebase
+
+🗣️ Add voice support or WhatsApp integration (optional)
