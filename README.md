@@ -29,9 +29,8 @@ https://aslamzeb.github.io/travelagency-chatbot/
 ## 🚀 Getting Started
 
 1. Clone or download the repository  
-2. Place a plane image named `plane.png` in the same folder  
-3. Open `index.html` in any browser  
-4. Enjoy chatting and testing the flow
+2. Open `index.html` in any browser  
+3. Enjoy chatting and testing the flow
 
 ---
 
